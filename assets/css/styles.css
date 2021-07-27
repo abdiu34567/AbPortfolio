@@ -475,17 +475,6 @@ img {
   .contact__form {
     width: 360px;
   }
-  .contact {
-    background-image: url("/assets/img/con.jfif");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: rgba(197, 185, 185, 0);
-    width: 730px;
-    margin: auto;
-    padding: auto;
-    box-shadow: 2px -4px 5px 5px rgb(0, 0, 0), 2px -6px 5px 5px rgb(0, 0, 0);
-    border-radius: 40px;
-  }
   .contact__container {
     justify-items: center;
   }
