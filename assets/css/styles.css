@@ -151,8 +151,6 @@ img {
     padding: 2rem;
     background-color: var(--second-color);
     transition: 0.5s;
-    background-repeat: no-repeat;
-    background-size:cover;
   }
 }
 .nav__item {
