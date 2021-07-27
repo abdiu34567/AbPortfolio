@@ -152,6 +152,10 @@ img {
     background-color: var(--second-color);
     transition: 0.5s;
   }
+  .nav__link {
+    word-spacing: 10px;
+    font-size: 20px;
+  }
 }
 .nav__item {
   margin-bottom: var(--mb-4);
